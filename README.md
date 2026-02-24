@@ -1,6 +1,6 @@
 Hi 👋 I’m Lokesh
 
-Software Engineer with 2.8 years of experience building AI-powered, full-stack,
+Software Engineer with nearly 3 years of experience building AI-powered, full-stack,
 and cloud-native systems. I work across modern web technologies, cloud platforms,
 and applied Generative AI to deliver production-grade, scalable solutions.
 
