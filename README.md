@@ -12,3 +12,10 @@ and applied Generative AI to deliver production-grade, scalable solutions.
 
 📌 **Note**
 Most of my recent professional work is in private github repositories and other versioning tools like Bitbucket and AWS CodeCommit.
+
+📊 **Contribution Overview**
+
+![Streak](https://streak-stats.demolab.com?user=lokeshk-18)
+
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshk-18&theme=github)
