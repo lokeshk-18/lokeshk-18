@@ -1,18 +1,5 @@
-Hi 👋 I’m Lokesh
+Hi, I’m Lokesh. Majority of my recent professional work is maintained in private GitHub repositories and enterprise version control systems, including Bitbucket and AWS CodeCommit.
 
-Software Engineer with nearly 3 years of experience building AI-powered, full-stack,
-and cloud-native systems. I work across modern web technologies, cloud platforms,
-and applied Generative AI to deliver production-grade, scalable solutions.
-
-🔹 **Core Skills**
-- Full-Stack Development: React, Next.js, Astro.js
-- Backend & APIs: Flask, NestJS
-- Cloud & DevOps: AWS (Lambda, EventBridge, SQS, S3, CloudFront), Terraform, Docker
-- AI: Generative AI (LLMs, VLMs), Prompt Engineering, OCR & Document Intelligence
-
-📌 **Note**
-Most of my recent professional work is in private github repositories and other versioning tools like Bitbucket and AWS CodeCommit.
-
-📊 **Contribution Overview**
+## 📊 Contribution Overview
 
 ![Streak](https://streak-stats.demolab.com?user=lokeshk-18)
