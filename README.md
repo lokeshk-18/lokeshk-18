@@ -11,7 +11,4 @@ and applied Generative AI to deliver production-grade, scalable solutions.
 - AI: Generative AI (LLMs, VLMs), Prompt Engineering, OCR & Document Intelligence
 
 📌 **Note**
-Most of my recent professional work is in private organizational repositories
-(Bitbucket and AWS CodeCommit).  
-This GitHub profile primarily reflects earlier projects, while my day-to-day work
-focuses on building production systems and internal platforms.
+Most of my recent professional work is in private github repositories and other versioning tools like Bitbucket and AWS CodeCommit.
